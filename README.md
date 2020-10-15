@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-running as webapp : npm run react-start -> opens in browser
+running as webapp : npm run react-start -> opens in browser /n
 running as desktop-app : npm run build -> run the desktop app which is located in infostrecth-demo/dist folder
 
 
