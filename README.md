@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 running as webapp : npm run react-start -> opens in browser <br />
 
 
-running as desktop-app : npm run build -> run the desktop app which is located in infostrecth-demo/dist folder
+running as desktop-app : npm run build -> run the desktop app which is located in infostretch-demo/dist folder
 
 
 ### `yarn start`
